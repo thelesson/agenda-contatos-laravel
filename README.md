@@ -11,7 +11,7 @@ Pilha Laravel + Liveware + Bootstrap.
 Este repositório é o resultado final de uma prova prática entregue aos avaliadores, para concorrer a uma vaga de desenvolvedor Laravel.
 
 <p align="center">
-  <img src="./screenshots/img1.png"  width="100%">
+  <img src="./screenshots/07.png"  width="100%">
 </p>
 
 - [Veja a Demonstração](https://spa.algoritmo9.site).
@@ -36,25 +36,25 @@ Este repositório é o resultado final de uma prova prática entregue aos avalia
 ## Algumas capturas de tela
 
 <p align="center">
-  <img src="./screenshots/img7.png"  width="100%">
+  <img src="./screenshots/07.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img6.png"  width="100%">
+  <img src="./screenshots/06.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img5.png"  width="100%">
+  <img src="./screenshots/05.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img4.png"  width="100%">
+  <img src="./screenshots/04.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img3.png"  width="100%">
+  <img src="./screenshots/03.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img2.png"  width="100%">
+  <img src="./screenshots/02.png"  width="100%">
 </p>
 <p align="center">
-  <img src="./screenshots/img1.png"  width="100%">
+  <img src="./screenshots/01.png"  width="100%">
 </p>
 
 
